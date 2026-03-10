@@ -1,0 +1,4 @@
+*.tfvars
+.terraform
+.kube
+.terraform.lock.hcl
